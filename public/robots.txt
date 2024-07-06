@@ -1,0 +1,11 @@
+# *
+User-agent: *
+Allow: *
+
+# Host
+Host: https://vivekpawar.dev
+Host: https://www.vivekpawar.dev
+
+# Sitemaps
+Sitemap: https://vivekpawar.dev/sitemap.xml
+Sitemap: https://vivekpawar.dev/sitemap-0.xml

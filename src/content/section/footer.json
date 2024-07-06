@@ -1,0 +1,62 @@
+{
+  "Websites": [
+    {
+      "person": "vivekpawar.dev",
+      "link": "https://vivekpawar.dev/",
+      "note": ""
+    },
+    {
+      "person": "articles.vivekpawar.dev",
+      "link": "https://articles.vivekpawar.dev/",
+      "note": ""
+    }
+  ],
+
+  "links": [
+    {
+      "person": "Home",
+      "link": "https://vivekpawar.dev/",
+      "note": ""
+    },
+    {
+      "person": "Documentations",
+      "link": "https://vivekpawar.dev/docs",
+      "note": ""
+    },
+    {
+      "person": "Articles",
+      "link": "https://vivekpawar.dev/articles",
+      "note": ""
+    },
+
+    {
+      "person": "Projects",
+      "link": "https://vivekpawar.dev/projects",
+      "note": ""
+    },
+    {
+      "person": "Contact",
+      "link": "mailto:contact@vivekpawar.dev",
+      "note": ""
+    }
+  ],
+
+  "social": [
+    {
+      "url": "https://medium.com/@vivekpawar95",
+      "icon": "medium"
+    },
+    {
+      "url": "https://dev.to/vivekpawar",
+      "icon": "dev"
+    },
+    {
+      "url": "https://www.linkedin.com/in/vivek-pawar9005/",
+      "icon": "linkedin"
+    },
+    {
+      "url": "https://github.com/vivekpawar95",
+      "icon": "github"
+    }
+  ]
+}

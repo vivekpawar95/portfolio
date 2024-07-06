@@ -1,0 +1,33 @@
+{
+  "intro": {
+    "start": "const versatileDeveloper = ( ...avidParameters ) => ",
+    "end": "Hello! I'm",
+    "speed": 60,
+    "deletionSpeed": 80,
+    "wrapper": "h2",
+    "startDelay": 1000,
+    "deleteDelay": 3000,
+    "restartDelay": 12000
+  },
+
+  "header": {
+    "name": "Vivek Pawar.",
+    "usp": "Senior Full Stack Developer"
+  },
+
+  "paragraph": "I’m a software engineer, who is passionate and has over 5+ years of experience creating complex enterprise and SaaS applications. I am well versed in creating microservices that are implemented using Docker, Kafka, or Apollo GraphQL Federation. However, my specialty lies in developing scalable solutions using the ReactJS, NodeJS, and NestJS frameworks. Furthermore, I have good knowledge of contemporary database technologies such as PostgresSQL, MSSQL, and MongoDB.",
+  "paragraph2": "Whether it is developing front-end interfaces that are dynamic or building backend services that are robust, I’m focused on harnessing advanced tools and frameworks for delivering top-class software. As a result, I have been involved in the entire software development life cycle process and thus produced code that can be scaled up easily when necessary.",
+  "paragraph3": "It would be fantastic if we could connect to build our tomorrow together!",
+  "buttons": {
+    "primary": {
+      "title": "Resume",
+      "url": "mailto:contact@vivekpawar.dev",
+      "leaveSite": false
+    },
+    "secondary": {
+      "title": "Contact",
+      "url": "https://www.linkedin.com/in/vivek-pawar-9005",
+      "leaveSite": "true"
+    }
+  }
+}

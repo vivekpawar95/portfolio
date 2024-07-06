@@ -1,0 +1,18 @@
+[
+  {
+    "title": "vivekpawar.dev",
+    "pubDate": "2023-07-05",
+    "link": "https://github.com/vivekpawar95/portfolio#readme",
+    "author": "Vivek Pawar",
+    "thumbnail": "/img/jobs.png",
+    "categories": ["Portfolio", "Website", "Blog", "personal"]
+  },
+  {
+    "title": "logly",
+    "pubDate": "2023-12-29",
+    "link": "https://github.com/vivekpawar95/logly#readme",
+    "author": "Vivek Pawar",
+    "thumbnail": "/img/logly.png",
+    "categories": ["Python", "logging"]
+  }
+]
