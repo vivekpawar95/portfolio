@@ -51,7 +51,7 @@
     "sharp": "^0.33.4",
     "tailwind-merge": "^2.3.0",
     "the-new-css-reset": "^1.11.2",
-    "three": "^0.165.0",
+    "three": "^0.167.0",
     "yarn": "^1.22.22"
   },
   "devDependencies": {
