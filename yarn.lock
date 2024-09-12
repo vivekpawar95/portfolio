@@ -1177,10 +1177,10 @@
   resolved "https://registry.yarnpkg.com/@fontsource/fira-code/-/fira-code-5.0.18.tgz#a9030d5c8d220aa5319b4d6269fe3a4300858747"
   integrity sha512-DuH/ewp/2sSYoJw7PxB1VuCyrxo7OCEWeML7sN5yNfP8gTleIktZl/dTopcPOHv1WwDUcqRG1veRoEgfEeYfqQ==
 
-"@fontsource/inter@^5.0.18":
-  version "5.0.18"
-  resolved "https://registry.yarnpkg.com/@fontsource/inter/-/inter-5.0.18.tgz#eaddac790ee74b70932030f37ebaa9fc76decbd8"
-  integrity sha512-YCsoYPTcs713sI7tLtxaPrIhXAXvEetGg5Ry02ivA8qUOb3fQHojbK/X9HLD5OOKvFUNR2Ynkwb1kR1hVKQHpw==
+"@fontsource/inter@^5.1.0":
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@fontsource/inter/-/inter-5.1.0.tgz#ab629b2c662457022d2d6a29854b8dc8ba538c47"
+  integrity sha512-zKZR3kf1G0noIes1frLfOHP5EXVVm0M7sV/l9f/AaYf+M/DId35FO4LkigWjqWYjTJZGgplhdv4cB+ssvCqr5A==
 
 "@fortawesome/fontawesome-common-types@6.5.2":
   version "6.5.2"
